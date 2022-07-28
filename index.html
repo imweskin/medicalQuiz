@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>QCM médecine</title>
+        <!-- google font -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet">
+        <!-- font awesome -->
+        <link rel="stylesheet" href="css/all.min.css">
+        <!-- main CSS file -->
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <button class="start-btn">Commencer</button>
+        <div class="rules">
+            <div class="head">
+                <h2>Règles du QCM :</h2>
+            </div>
+            <div class="body">
+                <span class="rule">1. Vous n'aurez que <span class="time">60 secondes</span> par question.</span>
+                <span class="rule">2. Tant qu'il reste du temps, vous pouvez changer vos réponses.</span>
+                <span class="rule">3. Vous ne pouvez selectionner aucune option une fois le temps écoulé.</span>
+                <span class="rule">4. Vous ne pouvez pas revenir a une question précédente.</span>
+                <span class="rule">5. Vous ne pouvez pas quitter le QCM une fois commencé.</span>
+                <span class="rule">6. Vous aurez des points basés sur sur vos réponses correctes.</span>
+            </div>
+            <div class="footer">
+                <div class="buttons">
+                    <button class="exit">Quitter</button>
+                    <button class="continue">Continuer</button>
+                </div>
+            </div>
+        </div>
+        <div class="quiz">
+            <div class="head">
+                <h2>Cardio - Anatomie</h2>
+                <div class="time">
+                    <span class="text">Temps restant: <span class="numbers"></span></span>
+                </div>
+            </div>
+            <div class="body">
+                <h2 class="question"></h2>
+                <ul class="answers"></ul>
+            </div>
+            <div class="footer">
+                <div class="qst-count">
+                    <span class="current-qst"></span> sur <span class="total-qst"></span> questions
+                </div>
+                <button class="submit">Confirmer</button>
+                <button class="next">Suivant</button>
+            </div>
+        </div>
+        <div class="results">
+            <i class="fa-solid fa-crown"></i>
+            <p>Vous avez terminé le QCM!</p>
+            <p class="results-text"></p>
+            <div class="buttons">
+                <button class="replay">relancer</button>
+                <button class="quit">Quitter</button>
+            </div>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>

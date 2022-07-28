@@ -1,0 +1,135 @@
+[
+    {
+        "title": "La cage thoracique",
+        "answer_1": "La clavicule délimite avec d'autres éléments l'ouverture supérieure de la cage",
+        "answer_2": "Toutes les incisures costales sont portées sur le corps du sternum",
+        "answer_3": "L'incissure jugulaire est concave vers le haut",
+        "answer_4": "L'angle de Louis est l'angle infrasternal",
+        "answer_5": "La 1ère cote, comme la 11ème et la 12ème s'articulent avec un seul corps vertébral",
+        "right_answer": [
+            "La clavicule délimite avec d'autres éléments l'ouverture supérieure de la cage",
+            "L'incissure jugulaire est concave vers le haut",
+            "La 1ère cote, comme la 11ème et la 12ème s'articulent avec un seul corps vertébral"
+        ]
+    },
+    {
+        "title": "La vertèbre thoracique",
+        "answer_1": "Son corps est muni de facettes articulaires costales",
+        "answer_2": "Son apophyse épineuse est bituberculeuse",
+        "answer_3": "Entre le corps vertébral et l'arc neural se trouve un foramen arrondi et large",
+        "answer_4": "Présente des apophyses transverses obliques en dehors et en arrière",
+        "answer_5": "Présente un corps vertébral de forme triangulaire",
+        "right_answer": [
+            "Son corps est muni de facettes articulaires costales",
+            "Entre le corps vertébral et l'arc neural se trouve un foramen arrondi et large",
+            "Présente des apophyses transverses obliques en dehors et en arrière"
+        ]
+    },
+    {
+        "title": "Les cotes",
+        "answer_1": "Os paire symétrique, allongé, arqué a concavité interne",
+        "answer_2": "Ils sont au nombre de 12",
+        "answer_3": "Chacune s'articule avec le sternum par son propre cartilage",
+        "answer_4": "Le paquet nerveux intercostal se trouve au bord supérieur de chaque cote",
+        "answer_5": "La tete et le tubercule sont séparés du corps par le col",
+        "right_answer": [
+            "Os paire symétrique, allongé, arqué a concavité interne",
+            "Ils sont au nombre de 12"
+        ]        
+    },
+    {
+        "title": "Les cotes",
+        "answer_1": "La tete s'articule avec 2 corps verébraux pour la grande majorité des cotes",
+        "answer_2": "Le tubercule costal présente une surface articulaire pour le processus transverse",
+        "answer_3": "La courbure suivant l'axe produit la torsion de la cote",
+        "answer_4": "La courbure suivant le bord produit la descente en bas et en avant de la cote",
+        "answer_5": "Une cote a 2 faces et 2 bords",
+        "right_answer": [
+            "La tete s'articule avec 2 corps verébraux pour la grande majorité des cotes",
+            "Le tubercule costal présente une surface articulaire pour le processus transverse",
+            "La courbure suivant l'axe produit la torsion de la cote",
+            "La courbure suivant le bord produit la descente en bas et en avant de la cote",
+            "Une cote a 2 faces et 2 bords"
+        ]        
+    },
+    {
+        "title": "Les cotes",
+        "answer_1": "Le bord supérieur est tranchant, c'est un lieu de passage des vaisseaux",
+        "answer_2": "Le corps comprend 3 courbures: L'angle dorsal, une courbure suivant le bord et une courbure suivant l'axe",
+        "answer_3": "Il est préférable de  piquer sous une cote pour éviter de toucher les vaisseaux(ponction)",
+        "answer_4": "La tete de la premiere cote s'articule avec T1 seule et non pas avec T1 et C7",
+        "answer_5": "Elles sont toutes aplaties transversalement",
+        "right_answer": [
+            "Le corps comprend 3 courbures: L'angle dorsal, une courbure suivant le bord et une courbure suivant l'axe",
+            "La tete de la premiere cote s'articule avec T1 seule et non pas avec T1 et C7"
+        ]        
+    },
+    {
+        "title": "Les cotes",
+        "answer_1": "Les 1ere, 11eme et 12eme cotes n'ont pas de tubercule costal",
+        "answer_2": "Les cotes qui ont un cartilage fusionné sont nommées les vraies cotes",
+        "answer_3": "Les 11eme et 12eme cotes sont dites cotes flottantes",
+        "answer_4": "La 1ere cote s'articule aussi avec la clavicule",
+        "answer_5": "Les 2 dernieres cotes sont les plus courtes",
+        "right_answer": [
+            "Les 11eme et 12eme cotes sont dites cotes flottantes",
+            "La 1ere cote s'articule aussi avec la clavicule",
+            "Les 2 dernieres cotes sont les plus courtes"
+        ]        
+    },
+    {
+        "title": "Le sternum",
+        "answer_1": "Il est oblique en bas et en arriere",
+        "answer_2": "Il est constitué de 3 pieces: Manubrium, Corps et processus xiphoide",
+        "answer_3": "La 2eme incisure sternale est a cheval sur le manubrium et le corps",
+        "answer_4": "Sa face ventrale est sous cutanée, étant un os plat on l'utilise pour prélever la moelle osseuse",
+        "answer_5": "Le sternum comporte 8 paires de surfaces articulaires",
+        "right_answer": [
+            "Il est constitué de 3 pieces: Manubrium, Corps et processus xiphoide",
+            "La 2eme incisure sternale est a cheval sur le manubrium et le corps",
+            "Sa face ventrale est sous cutanée, étant un os plat on l'utilise pour prélever la moelle osseuse",
+            "Le sternum comporte 8 paires de surfaces articulaires"
+        ]        
+    },
+    {
+        "title": "Le sternum",
+        "answer_1": "Il y'a 2 vertebres flottantes non articulaires avec le sternum",
+        "answer_2": "La 7eme incisure costale recoit la fusion de 4 cartilages costaux",
+        "answer_3": "La 2eme incisure costale appartient exclusivement au corps",
+        "answer_4": "A la jonction manubrium corps se trouve l'angle sternal ou angle de Louis",
+        "answer_5": "Le processus xiphoide atteint T10",
+        "right_answer": [
+            "La 7eme incisure costale recoit la fusion de 4 cartilages costaux",
+            "A la jonction manubrium corps se trouve l'angle sternal ou angle de Louis",
+            "Le processus xiphoide atteint T10"
+        ]        
+    },
+    {
+        "title": "Le médiastin",
+        "answer_1": "Le médiastin antérieur est vasculaire",
+        "answer_2": "L'étage supèrieur du médiastin antérieur est formé par les gros vaisseaux du coeur",
+        "answer_3": "Le coeur occupe l'étage infèrieur du médiastin antérieur",
+        "answer_4": "Le médiastin postérieur est plus profond que le médiastin antérieur",
+        "answer_5": "Les nerfs phréniques appartiennent au médiastin antérieur",
+        "right_answer": [
+            "Le médiastin antérieur est vasculaire",
+            "Le coeur occupe l'étage infèrieur du médiastin antérieur",
+            "Le médiastin postérieur est plus profond que le médiastin antérieur"
+        ]        
+    },
+    {
+        "title": "Le médiastin",
+        "answer_1": "La limite latérale du médiastin est représentée par la plèvre pariétale",
+        "answer_2": "L'étage supérieur du médiastin antérieur est formé par les gros vaisseaux de la base du coeur",
+        "answer_3": "Le coeur occupe l'étage inférieur du médiastin antérieur",
+        "answer_4": "Le médiastin antérieur est plus superficiel que le médiastin postérieur",
+        "answer_5": "Les nerfs phréniques appartiennent au médiastin postérieur",
+        "right_answer": [
+            "La limite latérale du médiastin est représentée par la plèvre pariétale",
+            "L'étage supérieur du médiastin antérieur est formé par les gros vaisseaux de la base du coeur",
+            "Le coeur occupe l'étage inférieur du médiastin antérieur",
+            "Le médiastin antérieur est plus superficiel que le médiastin postérieur",
+            "Les nerfs phréniques appartiennent au médiastin postérieur"
+        ]        
+    }
+]
